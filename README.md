@@ -88,7 +88,8 @@ O cliente consulta ou cadastra notas fiscais diretamente via API Gateway, que ro
 ### Iniciando o LocalStack
 
 ```bash
-docker compose up -d
+
+localstack start
 
 # Verificar se está saudável
 curl -s http://localhost:4566/_localstack/health | jq .services
