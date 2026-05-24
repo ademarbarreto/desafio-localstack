@@ -1,0 +1,92 @@
+# ── Ambiente Virtual Python ───────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Dependências Python ───────────────────────────────────────────────
+pip-log.txt
+pip-delete-this-directory.txt
+.installed.cfg
+
+# ── Zips das Lambdas (gerados pelo setup.sh) ──────────────────────────
+infra/zips/
+*.zip
+
+# ── Credenciais e variáveis de ambiente ───────────────────────────────
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.cert
+credentials
+
+# ── AWS CLI ───────────────────────────────────────────────────────────
+.aws/
+
+# ── LocalStack ────────────────────────────────────────────────────────
+.localstack/
+volume/
+
+# ── Logs ──────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Arquivos temporários de teste ─────────────────────────────────────
+/tmp/
+*.tmp
+
+# ── IDEs e editores ───────────────────────────────────────────────────
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# ── Sistema Operacional ───────────────────────────────────────────────
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# ── Docker ────────────────────────────────────────────────────────────
+docker-compose.override.yml
+
+# ── Cobertura de testes ───────────────────────────────────────────────
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+.tox/
+nosetests.xml

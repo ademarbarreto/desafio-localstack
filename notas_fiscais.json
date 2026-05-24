@@ -1,0 +1,62 @@
+[
+  {
+    "id": "NF-1",
+    "cliente": "Carlos Santos",
+    "valor": 1111.11,
+    "data_emissao": "2026-05-01"
+  },
+  {
+    "id": "NF-2",
+    "cliente": "José Santos",
+    "valor": 2222.22,
+    "data_emissao": "2026-02-02"
+  },
+  {
+    "id": "NF-3",
+    "cliente": "Valdemar Santos",
+    "valor": 3333.33,
+    "data_emissao": "2026-05-03"
+  },
+  {
+    "id": "NF-4",
+    "cliente": "Vanderlei Santos",
+    "valor": 4444.44,
+    "data_emissao": "2026-02-04"
+  },
+  {
+    "id": "NF-5",
+    "cliente": "Paulo Santos",
+    "valor": 5555.55,
+    "data_emissao": "2026-05-05"
+  },
+  {
+    "id": "NF-6",
+    "cliente": "Maria Santos",
+    "valor": 6666.66,
+    "data_emissao": "2026-02-06"
+  },
+  {
+    "id": "NF-7",
+    "cliente": "Angélica Santos",
+    "valor": 7777.77,
+    "data_emissao": "2026-05-07"
+  },
+  {
+    "id": "NF-8",
+    "cliente": "Caio Santos",
+    "valor": 1010.10,
+    "data_emissao": "2026-02-08"
+  },
+  {
+    "id": "NF-9",
+    "cliente": "João Santos",
+    "valor": 8765.87,
+    "data_emissao": "2026-05-09"
+  },
+  {
+    "id": "NF-10",
+    "cliente": "Bia Santos",
+    "valor": 1212.12,
+    "data_emissao": "2026-02-10"
+  }
+]

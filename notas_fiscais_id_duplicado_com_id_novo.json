@@ -1,0 +1,14 @@
+[
+    {
+        "id": "NF-1",
+        "cliente": "Carlos Santos",
+        "valor": 1111.11,
+        "data_emissao": "2026-05-01"
+    },
+    {   
+        "id": "NF-99",
+        "cliente": "Maria Barreto",
+        "valor": 2222.22,
+        "data_emissao": "2026-05-24"
+    }
+]
